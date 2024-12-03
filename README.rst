@@ -1,9 +1,9 @@
 Electrum Digital Cash (Dash) Wallet
 =====================================
 
-::
 
-**Electrum Dash** is a lightweight and secure wallet for the Dash cryptocurrency. It is designed to provide fast transactions, enhanced security, and cross-platform compatibility.  
+**Electrum Dash** is a lightweight and secure wallet for the Dash cryptocurrency.
+It is designed to provide fast transactions, enhanced security, and cross-platform compatibility.  
 
 
 Features  
