@@ -1,17 +1,24 @@
-Electrum - lightweight Bitcoin client
+Electrum Digital Cash (Dash) Wallet
 =====================================
 
 ::
 
-  Licence: GNU GPL v3
-  Author: Thomas Voegtlin
-  Language: Python
-  Homepage: https://electrum.org/
+**Electrum Dash** is a lightweight and secure wallet for the Dash cryptocurrency. It is designed to provide fast transactions, enhanced security, and cross-platform compatibility.  
 
 
-.. image:: https://travis-ci.org/spesmilo/electrum.svg?branch=master
-    :target: https://travis-ci.org/spesmilo/electrum
-    :alt: Build Status
+Features  
+=============
+
+- **Secure and Reliable**: Protects your funds with advanced encryption.  
+- **Lightweight**: Quick to download and sync, saving you time and resources.  
+- **Multi-platform**: Available on Windows, macOS, and Linux.  
+- **Hardware Wallet Integration**: Supports devices like Ledger and Trezor.  
+- **Instant Transactions**: Optimized for Dash's InstantSend functionality. 
+
+
+This project is licensed under the MIT License. See the `LICENSE`_ for details.
+
+.. _LICENSE: https://github.com/Electrum-Digital-Cash/electrum-dash/blob/master/LICENCE
 
 
 1. GETTING STARTED
