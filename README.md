@@ -33,21 +33,21 @@ Features
         </a>
       </td>
       <td style="border: 1px solid #444; padding: 10px; text-align: center;">
-        <a href="https://github.com/Electrum-Digital-Cash/electrum-dash/releases/download/v4.1.7/dash-electrum-4.1.7.dmg" rel="nofollow">
+        <a href="https://github.com/Electrum-Digital-Cash/electrum-dash/releases/download/v4.1.7.2/dash-electrum-4.1.7.2.dmg" rel="nofollow">
           <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
             <img src="https://img.icons8.com/ios-filled/50/808080/mac-os.png" alt="Download for macOS" width="60" style="max-width: 100%; margin-left: 20px;">
           </div>
         </a>
       </td>
       <td style="border: 1px solid #444; padding: 10px; text-align: center;">
-        <a href="https://github.com/Electrum-Digital-Cash/electrum-dash/releases/download/v4.1.7/dash-electrum-4.1.7.exe" rel="nofollow">
+        <a href="https://github.com/Electrum-Digital-Cash/electrum-dash/releases/download/v4.1.7.2/dash-electrum-4.1.7.2.exe" rel="nofollow">
           <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Download for Windows" width="60" style="max-width: 100%; margin-left: 80px;">
           </div>
         </a>
       </td>
       <td style="border: 1px solid #444; padding: 10px; text-align: center;">
-        <a href="https://github.com/Electrum-Digital-Cash/electrum-dash/releases/download/v4.1.7/dash-electrum-4.1.7.AppImage" rel="nofollow">
+        <a href="https://github.com/Electrum-Digital-Cash/electrum-dash/releases/download/v4.1.7.2/dash-electrum-4.1.7.2.AppImage" rel="nofollow">
           <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Download for Linux" width="60" style="max-width: 100%;">
           </div>
